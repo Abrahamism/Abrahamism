@@ -65,12 +65,4 @@
 <div align="center">
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abrahamism/Abrahamism/output/snake.svg" alt="Snake animation" />
-
-<br><br>
-
-<div align="center">
- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-
 
