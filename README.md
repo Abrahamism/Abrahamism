@@ -49,9 +49,6 @@
   <a href="https://www.linkedin.com/in/ismael-abraham-rodriguez-rodriguez-167279197" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-162-498418.png?f=webp&w=256" height="35" alt="linkedin logo" />
   </a>
- <a href=" https://x.com/EyAbraham?t=9aRehFzErZtPJPXYRMDKMw&s=08" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-9420781-7651211.png?f=webp&w=256" height="35" alt="twitter logo" />
-  </a>
 </div>
 
 <br>
